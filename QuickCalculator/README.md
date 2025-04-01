@@ -21,8 +21,8 @@ A minimal and modern calculator app built with NEXT.js and Tailwind CSS.
 
 ## **🏁 Quick Start**
 ```bash
-git clone https://github.com/<your-username>/technical-projects.git
-cd technical-projects/quickcalc
+git clone git@github.com:amvdevlab/Technical-Projects.git
+cd QuickCalculator/frontend
 npm install
 npm run dev
 ```
