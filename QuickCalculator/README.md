@@ -21,10 +21,10 @@ A minimal and modern calculator app built with NEXT.js and Tailwind CSS.
 
 ## **🏁 Quick Start**
 ```bash
-$ git clone https://github.com/<your-username>/technical-projects.git
-$ cd technical-projects/quickcalc
-$ npm install
-$ npm run dev
+git clone https://github.com/<your-username>/technical-projects.git
+cd technical-projects/quickcalc
+npm install
+npm run dev
 ```
 
 ## **🎬 Test & Demo**
