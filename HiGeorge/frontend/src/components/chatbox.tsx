@@ -15,13 +15,12 @@ const Chatbox = () => {
 
     return (
         <div className="chatbox">
-            <h2 className="message-prompt">Message about anything</h2>
             <form onSubmit={handleSubmit} className="chat-input">
                 <input
                     type="text"
                     value={message}
                     onChange={(e) => setMessage(e.target.value)}
-                    placeholder="Type your message..."
+                    placeholder="Message about anything..."
                     className="message-input"
                 />
                 <button type="submit" className="send-button">

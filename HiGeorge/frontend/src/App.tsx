@@ -4,11 +4,8 @@ import './App.css';
 function App() {
     return (
         <div className="app">
-            <header className="app-header">
-                <h1>HiGeorge</h1>
-                <p>Your Questions Answered</p>
-            </header>
             <main className="app-main">
+                <h1 className="app-title">Hi, I'm George! How can I help you today?</h1>
                 <Chatbox />
             </main>
         </div>
