@@ -56,3 +56,9 @@ body {
     font-family: var(--font-primary);
     letter-spacing: -0.02em;
 }
+
+.app-smile {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1rem;
+}
